@@ -25,7 +25,7 @@ public class WorkItems {
 	static String TeamProjectName = "Global_Template_PBNA_PBC_Phase0";
 	static String UrlEndGetWorkItemById = "/_apis/wit/workitems/";
 	static Integer WorkItemId = 5551863;
-	static String PAT = "6abjcysr3daolmmjwnukkgtasscpoa7gtq6tx7wu3qb2mg3jgnoa";
+	static String PAT = "<Your Pat token>";
 	
 ///Legacy%20Integration/_apis/work/backlogs/Microsoft.RequirementCategory/workItems?api-version=7.1-preview.1
 	public static void main(String[] args) {
